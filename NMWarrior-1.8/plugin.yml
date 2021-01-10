@@ -1,0 +1,17 @@
+name: NMWarrior
+version: 1.0
+main: me.boz_turk.nmwarrior.Main
+description: NoMercyMC Sunucusu icin hazirlanmistir
+author: Boz_Turk
+depend: [NMExtensions]
+
+commands:
+    savasci:
+        usage: /<command> [<player>]
+        description: Savasci ogrenme
+    savascitop:
+        usage: /<command>
+        description: Savascitop ogrenme
+    savascistand:
+        usage: /<command> <mesaj>
+        description: stand isaret komutu

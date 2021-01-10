@@ -1,0 +1,12 @@
+Prefix: "&8[&aNoMercyMC&a]&7=&8[ "
+
+db_host: 'localhost'
+db_port: 3306
+db_database: 'nomercymc'
+db_username: 'root'
+db_password: ''
+db_table: 'savasci_table'
+
+stand_1: NONE
+stand_2: NONE
+stand_3: NONE
