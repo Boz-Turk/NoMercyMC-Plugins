@@ -1,0 +1,20 @@
+name: NMOntime
+version: 1.0
+main: me.boz_turk.nmontime.Main
+description: NoMercyMC Sunucusu icin hazirlanmistir
+author: Boz_Turk
+depend: [NMExtensions]
+
+commands:
+    ontime:
+        usage: /<command> [<player>]
+        description: Ontime ogrenme
+    ontimetop:
+        usage: /<command>
+        description: Ontimetop ogrenme
+    ontimever:
+        usage: /<command>
+        description: Ontimever
+    ontimestand:
+        usage: /<command> <mesaj>
+        description: stand isaret komutu
